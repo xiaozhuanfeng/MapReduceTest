@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 
 /**
- * 单词计数xx
+ * 单词计数
  */
 public class WordCount {
     /* Mapper */
